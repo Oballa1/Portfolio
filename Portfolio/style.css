@@ -1,0 +1,75 @@
+body {
+    overflow: auto; 
+    min-height: calc(100vh - 40px);
+    background-color:rgb(2, 2, 83); 
+    padding: 5px; 
+    border: 5px solid aqua; 
+    box-sizing: border-box;
+     border-radius: 30px;
+  }
+  .about {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 15px;
+    font-weight: bold;
+    width: fit-content;
+    height:fit-content;
+    border: 2px double aqua;
+    padding: 10px;
+    border-radius: 30px;
+    color: blue;
+    background-color: aqua;
+
+   }  
+   .projects{
+    text-align: left;
+    font-size: 15px;
+    font-weight: bold;
+    width: fit-content;
+    height:fit-content;
+    border: 2px double aqua;
+    padding: 10px;
+    margin-left: 570px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color: aqua;
+    color: blue;
+    
+
+ 
+   }  
+   
+   .Skills{
+    text-align: left;
+    font-size: 15px;
+    font-weight: lighter;
+    width: fit-content;
+    height:fit-content;
+    border: 2px double aqua;
+    border-radius: 30px;
+    background-color: aqua;
+    color: blue;
+    margin-bottom: 20px;
+   }
+   .Contacts{
+    text-align: left;
+    font-size: 15px;
+    font-weight: lighter;
+    width: fit-content;
+    height:fit-content;
+    border: 2px solid aqua;
+    border-radius: 30px;
+    background-color: aqua;
+    padding: 30px;
+    color: blue;
+    margin-left: 570px;
+   }
+   #Steve{
+    width: 200px;
+    height: 200px;
+   }
+   #button{
+    width: 20px;
+    height: 12px;
+   }
